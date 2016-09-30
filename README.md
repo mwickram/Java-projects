@@ -1,7 +1,7 @@
 # Java-projects
 //Small Java projects
 
-The sample midterm examined in the course was a student grade calculator, which had the following features:
+The program is a grade calculator.Sample run:
 
 Welcome to the grading program.  
 Please enter student information:
